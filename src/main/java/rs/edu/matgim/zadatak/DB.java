@@ -1,5 +1,5 @@
 package rs.edu.matgim.zadatak;
-//skrtskrt
+//skrtskrt123
 import java.sql.*;
 
 public class DB {
